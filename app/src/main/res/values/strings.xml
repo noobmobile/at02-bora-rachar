@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">borarachar2</string>
+    <string name="app_name">Lets split</string>
+    <string name="dinheiro">Money</string>
+    <string name="pessoas">Amount of people</string>
+    <string name="compartilhar">Share</string>
+    <string name="tts">TTS</string>
+    <string name="formatacao">$ 0,00</string>
 </resources>

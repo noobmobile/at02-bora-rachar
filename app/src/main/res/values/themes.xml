@@ -3,6 +3,7 @@
     <style name="Base.Theme.Borarachar2" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#541A54</item>
     </style>
 
     <style name="Theme.Borarachar2" parent="Base.Theme.Borarachar2" />

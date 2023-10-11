@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bora rachar</string>
+    <string name="dinheiro">Dinheiro</string>
+    <string name="pessoas">Pessoas</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="tts">TTS</string>
+    <string name="formatacao">R$ 0,00</string>
+</resources>
